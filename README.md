@@ -1,4 +1,4 @@
-# PersonalProject4
+# Multi threaded application Project
 
 This C++ program is a multi-threaded application that simulates a reader-writer problem using POSIX threads (pthreads) and semaphores. The program creates multiple reader threads and writer threads based on the command line arguments. Each thread performs reading or writing operations on a shared string variable.
 
